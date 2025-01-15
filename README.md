@@ -9,7 +9,6 @@
 <ul>
   <li><a href="https://gitlab.com/dynchikkk" target="_blank">GitLab</li>
   <li><a href="https://glowzy.itch.io" target="_blank">itch.io</li>
-  <li><a href="https://yandex.ru/games/developer?name=Pandora%20Box" target="_blank">Yandex Games</li>
 </ul>
 
 

@@ -10,8 +10,3 @@
 </p>
 
 <p>.NET Developer with 4+ years of experience, including 2+ years of commercial development using C# and JavaScript. Focused on building reliable, scalable, and maintainable client-server systems.</p>
-<lh>Projects</lh>
-<ul>
-  <li><a href="https://gitlab.com/dynchikkk" target="_blank">GitLab</li>
-  <li><a href="https://glowzy.itch.io" target="_blank">itch.io</li>
-</ul>
